@@ -89,12 +89,18 @@ jQuery(document).ready(function ($) {
         });
     }
 
-    $(window).resize(function () {
+    function updateTitle() {
         if ($(window).width() < 650) {
             document.getElementById('nav-title').innerText = 'HTDOOC';
         } else {
             document.getElementById('nav-title').innerText = 'How To Drop Out Of College';
         }
+    }
+
+    updateTitle();
+
+    $(window).resize(function () {
+        updateTitle();
     });
 
 });
