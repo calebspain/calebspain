@@ -89,18 +89,4 @@ jQuery(document).ready(function ($) {
         });
     }
 
-    function updateTitle() {
-        if ($(window).width() < 650) {
-            document.getElementById('nav-title').innerText = 'HTDOOC';
-        } else {
-            document.getElementById('nav-title').innerText = 'Caleb Spain';
-        }
-    }
-
-    updateTitle();
-
-    $(window).resize(function () {
-        updateTitle();
-    });
-
 });
