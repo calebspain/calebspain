@@ -93,7 +93,7 @@ jQuery(document).ready(function ($) {
         if ($(window).width() < 650) {
             document.getElementById('nav-title').innerText = 'HTDOOC';
         } else {
-            document.getElementById('nav-title').innerText = 'How To Drop Out Of College';
+            document.getElementById('nav-title').innerText = 'Caleb Spain';
         }
     }
 
