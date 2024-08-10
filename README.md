@@ -1,5 +1,4 @@
 # 🙋‍♂️ Hi, I'm Caleb Spain
-### A Software Engineer located in Houston, TX
 
 ## About Me
 I am an experienced software engineer with over 5 years in the industry. My journey has taken me through diverse domains including real estate, healthcare, finance, and travel. My commitment to delivering high-quality solutions and staying at the forefront of technology has been a constant throughout my career.
