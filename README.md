@@ -17,8 +17,8 @@ Here’s a snapshot of the types of projects I work on:
 
 ## Get In Touch
 I’m always open to new opportunities and discussions. Feel free to reach out if you’re interested in collaborating or just want to connect!
-- **LinkedIn**: https://www.linkedin.com/in/caleb-spain
 - **Email**: crspain@uh.edu
+- **LinkedIn**: https://www.linkedin.com/in/caleb-spain
 
 ## Open to Collaboration
 I am open to collaboration on interesting projects and eager to contribute to the open-source community. Feel free to reach out if you have any exciting opportunities or if you just want to connect!
