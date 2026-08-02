@@ -1,6 +1,6 @@
 # Caleb Spain
 
-Software Engineer with 8+ years of experience building software applications and backend systems.
+Software Engineer with 8+ years of experience building applications and backend systems.
 
 Experienced with C#, .NET, SQL Server, and Azure. Interested in backend engineering, cloud, data engineering, and AI.
 
