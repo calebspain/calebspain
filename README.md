@@ -1,24 +1,9 @@
 # Caleb Spain
 
-## About Me
-I am an experienced software developer with over 7 years in the industry. My journey has taken me through diverse domains including real estate, healthcare, travel, and oil & gas. My commitment to delivering high-quality solutions and staying at the forefront of technology has been a constant throughout my career.
+Software Engineer with 8+ years of experience building software applications and backend systems.
 
-## What I Do
-I enjoy working on a wide range of projects, from developing user-friendly applications to optimizing backend systems. My work involves:
-- Building scalable and efficient software solutions.
-- Collaborating with teams to deliver high-quality products.
-- Continuously learning and adopting new technologies.
+Experienced with C#, .NET, SQL Server, and Azure. Interested in backend engineering, cloud, data engineering, and AI.
 
-## Projects
-Here’s a snapshot of the types of projects I work on:
-- **Applications**: Creating intuitive and responsive applications tailored to user needs.
-- **Systems**: Designing robust backend systems to handle complex workflows.
-- **Integrations**: Connecting different systems and platforms for seamless data flow.
+This profile contains personal projects exploring these areas, with an emphasis on practical, production-oriented software.
 
-## Get In Touch
-I’m always open to new opportunities and discussions. Feel free to reach out if you’re interested in collaborating or just want to connect!
-- **Email**: crspain@uh.edu
-- **LinkedIn**: https://www.linkedin.com/in/caleb-spain
-
-## Open to Collaboration
-I am open to collaboration on interesting projects and eager to contribute to the open-source community. Feel free to reach out if you have any exciting opportunities or if you just want to connect!
+Houston, TX
